@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.filtros {
+    margin-bottom: 20px;
+}
+
+.filtros label, .filtros select, .filtros button, .filtros input {
+    margin-right: 10px;
+}
+
+#peliculas-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.pelicula {
+    border: 1px solid #ddd;
+    padding: 10px;
+    width: calc(33.333% - 20px);
+    box-sizing: border-box;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.pelicula-imagen {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.pelicula h2 {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+.pelicula p {
+    margin: 5px 0;
+    font-size: 14px;
+}
+
+.hidden {
+    display: none;
+}

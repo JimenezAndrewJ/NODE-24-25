@@ -1,0 +1,17 @@
+[
+    { "titulo": "El Rey León", "genero": "Animación", "año": 1994, "imagen": "https://upload.wikimedia.org/wikipedia/en/3/3d/The_Lion_King_poster.jpg" },
+    { "titulo": "Matrix", "genero": "Ciencia Ficción", "año": 1999, "imagen": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg" },
+    { "titulo": "Titanic", "genero": "Romance", "año": 1997, "imagen": "https://upload.wikimedia.org/wikipedia/en/1/18/Titanic_%281997_film%29_poster.png" },
+    { "titulo": "Avengers: Endgame", "genero": "Acción", "año": 2019, "imagen": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg" },
+    { "titulo": "Toy Story", "genero": "Animación", "año": 1995, "imagen": "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg" },
+    { "titulo": "Inception", "genero": "Ciencia Ficción", "año": 2010, "imagen": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg" },
+    { "titulo": "Jurassic Park", "genero": "Aventura", "año": 1993, "imagen": "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg" },
+    { "titulo": "The Dark Knight", "genero": "Acción", "año": 2008, "imagen": "https://pics.filmaffinity.com/El_caballero_oscuro-102763119-large.jpg" },
+    { "titulo": "Forrest Gump", "genero": "Drama", "año": 1994, "imagen": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg" },
+    { "titulo": "Frozen", "genero": "Animación", "año": 2013, "imagen": "https://upload.wikimedia.org/wikipedia/en/0/05/Frozen_%282013_film%29_poster.jpg" },
+    { "titulo": "Interstellar", "genero": "Ciencia Ficción", "año": 2014, "imagen": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg" },
+    { "titulo": "The Lion King", "genero": "Animación", "año": 2019, "imagen": "https://lumiere-a.akamaihd.net/v1/images/p_thelionking_19752_1_0b9de87b.jpeg?region=0%2C0%2C540%2C810" },
+    { "titulo": "Gladiator", "genero": "Acción", "año": 2000, "imagen": "https://m.media-amazon.com/images/I/51GA6V6VE1L._AC_UF1000,1000_QL80_.jpg" },
+    { "titulo": "The Avengers", "genero": "Acción", "año": 2012, "imagen": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8815512_p_v8_ax.jpg" },
+    { "titulo": "Finding Nemo", "genero": "Animación", "año": 2003, "imagen": "https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg" }
+]

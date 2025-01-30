@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafío con JSON y Películas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Catálogo de Películas</h1>
+        
+        <!-- Filtros -->
+        <div class="filtros">
+            <label for="genero">Filtrar por género:</label>
+            <select id="genero">
+                <option value="todos">Todos</option>
+                <option value="Animación">Animación</option>
+                <option value="Ciencia Ficción">Ciencia Ficción</option>
+                <option value="Romance">Romance</option>
+                <option value="Acción">Acción</option>
+            </select>
+
+            <button id="ordenar">Ordenar por Año</button>
+
+            <input type="text" id="buscar" placeholder="Buscar por título">
+            <button id="buscarBtn">Buscar</button>
+        </div>
+
+        <!-- Lista de películas -->
+        <div id="peliculas-container"></div>
+
+        <!-- Mensaje si no hay películas -->
+        <p id="mensaje" class="hidden">No hay películas que coincidan con el filtro seleccionado.</p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
